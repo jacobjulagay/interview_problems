@@ -20,8 +20,7 @@ function isPalindrome(string){
         return true;
     }
     else{
-        console.log("false")
+        return false;
     }
 }
 
-isPalindrome(given_string)
